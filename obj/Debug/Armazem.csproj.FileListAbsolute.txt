@@ -1,0 +1,8 @@
+C:\Users\Jefferson\source\repos\Armazem\Armazem\bin\Debug\Armazem.exe.config
+C:\Users\Jefferson\source\repos\Armazem\Armazem\bin\Debug\Armazem.exe
+C:\Users\Jefferson\source\repos\Armazem\Armazem\bin\Debug\Armazem.pdb
+C:\Users\Jefferson\source\repos\Armazem\Armazem\obj\Debug\Armazem.csproj.AssemblyReference.cache
+C:\Users\Jefferson\source\repos\Armazem\Armazem\obj\Debug\Armazem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jefferson\source\repos\Armazem\Armazem\obj\Debug\Armazem.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\source\repos\Armazem\Armazem\obj\Debug\Armazem.exe
+C:\Users\Jefferson\source\repos\Armazem\Armazem\obj\Debug\Armazem.pdb
